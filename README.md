@@ -1,2 +1,2 @@
-# Coursera_Mhel-Cenidoza
+# ProgrammingAssignment2
 github_cenidoza
